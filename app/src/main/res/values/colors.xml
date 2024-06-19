@@ -2,4 +2,14 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="primary">#cd00ea</color>
+    <color name="primary2">#5c00d2</color>
+
+    <color name="MAGREZA"># </color>
+    <color name="NORMAL"># </color>
+    <color name="SOBREPESO"># </color>
+    <color name="OBESIDADE"># </color>
+    <color name="GRAVE"># </color>
+
+
 </resources>
