@@ -1,5 +1,6 @@
 package com.comunidadedevspace.imc
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
@@ -39,7 +40,11 @@ class MainActivity : AppCompatActivity() {
                 val resultado = peso / alturaQ2
 
 
+                val intent = Intent(this, resultActivity::class.java)
+                intent.putExtra(KEY_RESULT_IMC, resultado)
+                startActivity(intent)
                 println("Robson ação do botao" + resultado)
+
             }
 
         }
