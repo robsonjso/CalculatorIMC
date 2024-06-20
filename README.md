@@ -1,19 +1,37 @@
 # Calculadora IMC
 Desc
+this project calculates your BMI and gives you the result of your current state of health
+
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
 Screenshots
+<img src="https://github.com/robsonjso/CalculatorIMC/assets/125934032/a0e77e8b-26f4-4af9-bbd5-33af561fdacf" width= 260 />
+<img src="https://github.com/robsonjso/CalculatorIMC/assets/125934032/2180efc1-b3ca-4f9b-8ef9-88488bce9e4b" width= 260 />
+
 
 ## Tecnologias
-Techs
+Techs!
+- Activity
+- Intent
+- SnackBar
+- ViewGroups
+- LinearLayout
+- ConstrantLayout
+- Views
+- ImageView
+- TextView
+- EditText
+- Button
+- 
+
 
 
 ## License
 ```
 The MIT License (MIT)
 
-Copyright (c) 2024 Robson Santos
+Copyright (c) 2024 Robson Santos.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
